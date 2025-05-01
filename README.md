@@ -49,7 +49,7 @@ A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchan139&theme=xcode" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchan139&theme=tokyo-night" />
 
 ---
 
