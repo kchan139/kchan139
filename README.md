@@ -15,7 +15,7 @@ A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
 ---
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=kchan139&theme=shadow-purple&hide_border=true&card_width=480"
+  src="https://github-readme-streak-stats.herokuapp.com?user=kchan139&theme=shadow-purple&hide_border=true&card_width=400"
   align="right"
   alt="Khoa's GitHub stats" 
 />
