@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Khoa Tran</h1>
 </div>
 
-A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
+A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 
 - 🔭 I’m currently exploring **Cloud Technologies**, **Infrastructure as Code (IaC)**, and **CI/CD pipelines** to enhance software delivery processes.
 - 💬 Ask me about anything DevOps-related – I'm always eager to share and learn!
@@ -15,10 +15,12 @@ A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
 ---
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=kchan139&theme=shadow-purple&hide_border=true&card_width=400"
+  src="https://github-readme-streak-stats.herokuapp.com?user=kchan139&theme=shadow-purple&hide_border=true&card_width=420&card_height=240"
   align="right"
   alt="Khoa's GitHub stats" 
 />
+
+
 <summary><h2>🛠️ Tech I Work With</h2></summary>
 
 <!-- DevOps & Tools -->
@@ -28,6 +30,7 @@ A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
 <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D32F2F.svg?logo=jenkins&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-5F3BAE.svg?logo=terraform&logoColor=white"></a>
+<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a> 
 
 <!-- Web & Frameworks -->
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-04968a?logo=fastapi&logoColor=white"></a>
@@ -40,8 +43,10 @@ A passionate learner and aspiring **DevOps Practitioner** from Vietnam.
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-481fa8.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-09afd9.svg?logo=go&logoColor=white"></a>
 
-<!-- Cloud Providers -->
-<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+<!-- Cloud Providers
+<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a> -->
+<br>
+<br>
 
 ---
 
