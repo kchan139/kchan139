@@ -50,7 +50,7 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchan139&theme=github-compact&hide_border=true&line=CA59FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchan139&theme=github-compact&grid=true&hide_border=true&area=true&area_color=6e4def&title_color=a08efc&line=704df1&point=4795e5" />
 
 ---
 
