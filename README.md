@@ -27,10 +27,10 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e84f2b?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-24770b.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-273ed5.svg?logo=github-actions&logoColor=white"></a>
+<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D32F2F.svg?logo=jenkins&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-303030.svg?logo=ansible&logoColor=white"></a>
 <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a> 
-<!-- <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D32F2F.svg?logo=jenkins&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-5F3BAE.svg?logo=terraform&logoColor=white"></a> -->
 
 <!-- Web & Frameworks -->
