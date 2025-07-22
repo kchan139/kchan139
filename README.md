@@ -26,6 +26,7 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-D32F2F.svg?logo=github-actions&logoColor=white"></a>
 <a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=podman&logoColor=white"></a>
 <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"></a>
 <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-333333.svg?logo=ansible&logoColor=white"></a>
