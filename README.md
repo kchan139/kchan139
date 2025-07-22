@@ -20,30 +20,25 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
   alt="Khoa's GitHub stats" 
 />
 
-
 <summary><h2>🛠️ Tech I Work With</h2></summary>
 
-<!-- DevOps & Tools -->
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e84f2b?logo=linux&logoColor=black"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<!-- DevOps & Tooling -->
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-D32F2F.svg?logo=github-actions&logoColor=white"></a>
-<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-5F3BAE.svg?logo=terraform&logoColor=white"></a>
-<a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-303030.svg?logo=ansible&logoColor=white"></a>
+<a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"></a>
+<a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-333333.svg?logo=ansible&logoColor=white"></a>
 
-<!-- Web & Frameworks -->
-<a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-04968a?logo=fastapi&logoColor=white"></a>
-<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-3c516a.svg?logo=flask&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-f0c40e.svg?logo=express&logoColor=black"></a>
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F0660.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-
-<!-- Languages -->
+<!-- OS, Scripting & Languages -->
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-04968a.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-481fa8.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-09afd9.svg?logo=go&logoColor=white"></a>
-<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20Scripting-24770b.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
 
 <!-- Cloud Providers -->
-<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+<a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white"></a>
+
 <br>
 <br>
 
