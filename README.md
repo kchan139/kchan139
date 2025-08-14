@@ -1,16 +1,19 @@
 <div align="center">
-  <h1>Hi 👋, I'm Khoa Tran</h1>
+  <h1>Hi, I'm Khoa Tran</h1>
 </div>
 
 A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 
 - 🔭 I’m currently exploring **Cloud Technologies**, **Infrastructure as Code (IaC)**, and **CI/CD pipelines** to enhance software delivery processes.
 - 💬 Ask me about anything DevOps-related – I'm always eager to share and learn!
+- 🌐 My Website: [portfolio.khoa.email](https://portfolio.khoa.email)
 - 📫 How to reach me:
 <div align="center">
   <a href="https://www.linkedin.com/in/khoatran139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:khoatrandd.139@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
+
+
 
 ---
 
@@ -23,13 +26,12 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 <summary><h2>🛠️ Tech I Work With</h2></summary>
 
 <!-- DevOps & Tooling -->
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-D32F2F.svg?logo=github-actions&logoColor=white"></a>
-<a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-<a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0.svg?logo=podman&logoColor=white"></a>
-<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"></a>
 <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-333333.svg?logo=ansible&logoColor=white"></a>
+<a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-D32F2F.svg?logo=github-actions&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?logo=nginx&logoColor=white"></a>
 
 <!-- OS, Scripting & Languages -->
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
