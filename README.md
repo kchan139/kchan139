@@ -6,7 +6,7 @@ A passionate learner and aspiring **DevOps Practitioner** from **VNU-HCMUT**.
 
 - 🔭 I’m currently exploring **Cloud Technologies**, **Infrastructure as Code (IaC)**, and **CI/CD pipelines** to enhance software delivery processes.
 - 💬 Ask me about anything DevOps-related – I'm always eager to share and learn!
-- 🌐 My Website: [portfolio.khoa.email](https://portfolio.khoa.email)
+<!-- - 🌐 My Website: [portfolio.khoa.email](https://portfolio.khoa.email) -->
 - 📫 How to reach me:
 <div align="center">
   <a href="https://www.linkedin.com/in/khoatran139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
