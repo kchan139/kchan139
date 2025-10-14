@@ -2,8 +2,8 @@
   <h1>Hi, I'm Khoa Tran</h1>
 </div>
 
-- **DevOps Engineer Intern** at **Hitachi Digital Services Vietnam**
-- Student at **VNU-HCMUT**
+- **DevOps Engineer Intern** at **[Hitachi Digital Services Vietnam](https://www.hitachids.com/vn-english/)**
+- Computer Science Student at **[VNU-HCMUT](https://hcmut.edu.vn/)**
 <!-- - 🌐 My Website: [portfolio.khoa.email](https://portfolio.khoa.email) -->
 - 📫 How to reach me:
 <div align="center">
